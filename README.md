@@ -4,9 +4,7 @@ Official implementation of the paper
 **"MAENet: Boosting Accuracy and Evenness in Image-Guided Point Cloud Completion"** (Information Fusion 2025)  📄 [Paper]()
 
 
-<img src="figs/Performance.png" width="80%">
-<img src="figs/Performance-un.png" width="80%">
-
+<img src="figs/Density.png" width="100%">
 
 ---
 
