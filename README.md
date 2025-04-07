@@ -143,7 +143,6 @@ Download pre-trained weights:
 | MAENet (Ours)     | P + I    | **0.873** | **0.981** | **0.754** | **0.756** | **0.885** | **0.945** | **0.818** | **0.895** | **0.951** |
 
 <img src="figs/Vis.png" width="110%">
----
 
 ## 🙏 Acknowledgements
 
