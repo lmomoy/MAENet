@@ -144,9 +144,13 @@ Download pre-trained weights:
 
 <img src="figs/Vis.png" width="110%">
 
+---
+
 ## 🙏 Acknowledgements
 
 This work is built heavily upon [XMFnet](https://github.com/diegovalsesia/XMFnet)
+
+---
 
 ## 📖 Citation
 
