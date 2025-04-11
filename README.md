@@ -1,7 +1,7 @@
 # MAENet: Boosting Accuracy and Evenness in Image-Guided Point Cloud Completion
 
 Official implementation of the paper  
-**"MAENet: Boosting Accuracy and Evenness in Image-Guided Point Cloud Completion"** (Information Fusion 2025)  📄 [Paper]()
+**"MAENet: Boosting Accuracy and Evenness in Image-Guided Point Cloud Completion"** (Information Fusion 2025)  📄 [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002520) 
 
 
 <img src="figs/Density.png" width="100%">
@@ -156,7 +156,15 @@ This work is built heavily upon [XMFnet](https://github.com/diegovalsesia/XMFnet
 
 If you find our work helpful, please cite:
 
-```bibtex
+```
+@article{liu2025maenet,
+  title={MAENet: Boost image-guided point cloud completion more accurate and even},
+  author={Liu, Moyun and Yang, Ziheng and Chen, Bing and Chen, Youping and Xie, Jingming and Yao, Lei and Chau, Lap-Pui and Du, Jiawei and Zhou, Joey Tianyi},
+  journal={Information Fusion},
+  pages={103179},
+  year={2025},
+  publisher={Elsevier}
+}
 ```
 ---
 
