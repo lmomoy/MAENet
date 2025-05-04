@@ -1,7 +1,7 @@
-# MAENet: Boosting Accuracy and Evenness in Image-Guided Point Cloud Completion
+# MAENet: Boost Image-guided Point Cloud Completion More Accurate and Even
 
 Official implementation of the paper  
-**"MAENet: Boosting Accuracy and Evenness in Image-Guided Point Cloud Completion"** (Information Fusion 2025)  📄 [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002520) 
+**"MAENet: Boost Image-guided Point Cloud Completion More Accurate and Even"** (Information Fusion 2025)  📄 [Paper](https://www.sciencedirect.com/science/article/pii/S1566253525002520) 
 
 
 <img src="figs/Density.png" width="100%">
